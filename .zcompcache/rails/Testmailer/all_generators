@@ -1,0 +1,1 @@
+all_generators=( 'assets' 'controller' 'generator' 'helper' 'integration_test' 'jbuilder' 'job' 'mailer' 'migration' 'model' 'resource' 'scaffold' 'scaffold_controller' 'task' 'coffee:assets' 'js:assets' 'test_unit:generator' 'test_unit:job' 'test_unit:plugin' )
